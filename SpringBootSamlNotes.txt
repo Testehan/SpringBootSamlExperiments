@@ -1,0 +1,10 @@
+I followed this tutorial, up until the section "Add support for Auth0"
+    https://developer.okta.com/blog/2022/08/05/spring-boot-saml
+
+I logged in Okta with my github account.
+
+After running, open http://localhost:8080
+
+
+TODO When pushing to github, do not commit the application.yaml "metadata-uri" value, also don't commit
+local.crt or local.key
